@@ -20,7 +20,7 @@ I have toured System 76, which as a Colorado based computer hardware company.
 
 ---
 ## Projects: 
--  Morse Code - *link to your repo*
+-  Morse Code - *(https://github.com/Canyon4/MorseCode)*
 	- Describe the project and it's purpose
 	- Describe what skills you used and what you learned during this project
 - Final Project - *link to your repo*
