@@ -24,13 +24,15 @@ I have toured System 76, which as a Colorado based computer hardware company.
 	There are two programs. morse.py translates an input, the user gives, to morse code and uses a buzzer to express the morse code. the other program, buttonMorse.py,
 	utilizes a button that, when clicked, will send a signal to the buzzer to sound off. Making it so that the user can make their own morse code phrases.
 	From this project, I learned how to stay diligent and on task which can be useful in other projects.
-- Final Project - *link to your repo*
-	 - Describe the project and it's purpose
-	- Describe what skills you used and what you learned during this project
+- Final Project - *(https://github.com/Canyon4/rcCarProject)*
+	The project was to build a remote control "car" and add some other fun things to it, specifically a display and a leds "disco" lights. The purpose of this project
+  	was purely to make something fun. A ligitimate purpose can be done in the future.
+	From this project, I learned how to work with others to create a project.
 
 
 ---
 
 ## Education
+Arapahoe High School, Expected May '24
 ## Awards and Certifications
-## Skills
+PCEP (Certified Entry-Level Python Programmer)
